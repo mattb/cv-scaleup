@@ -15,7 +15,12 @@ http://earmark.net/gesr/opamp/gain_offset.htm
 
 There is also a rudimentary 8HP front panel design in an Illustrator template.
 
-As of October 13th 2015, PCBs have been ordered from OSHPark and panels from
-Ponoko but have not yet arrived.  A single channel has been successfully tested on a
+On October 13th 2015, PCBs were ordered from OSHPark and panels from
+Ponoko.  A single channel has been successfully tested on a
 breadboard, and used to correctly track over 8 octaves of pitch control on
 an Arturia Microbrute using Silent Way's Voice Controller plugin in Ableton Live.
+
+On October 27th 2015, the PCBs arrived and the first one was assembled. All four channels worked correctly.
+
+![Assembled board]
+(assembled-board.jpg)
