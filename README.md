@@ -24,3 +24,9 @@ On October 27th 2015, the PCBs arrived and the first one was assembled. All four
 
 ![Assembled board]
 (assembled-board.jpg)
+
+![Assembled panel]
+(assembled-panel.jpg)
+
+![Completed product in rack]
+(panel-in-rack.jpg)
